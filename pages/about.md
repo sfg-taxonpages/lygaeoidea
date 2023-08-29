@@ -73,16 +73,17 @@ About our group structure, how the rules behind joining and participating are se
 |:----|:----|:----|
 | Internet Archive has Slater 1964 Vol. II | Search [Internet Archive](https://archive.org/) | Other references cited in [History](#history} above may be there as well |
 
-## Terms of use
-_Copyright guidance_
-Except where noted, content on this site licensed under the terms of the [Creative Commons Attribution License (CC-BY)](LINK). Images and other media, except where noted, please use under the [CC BY](LINK) license.
+## Terms of use (Copyright guidance)
 
-<div class="flex items-center">
-  <a href="{{ app:copyright_image_link }}">
+<div class="flex items-center gap-2">
+  <a
+    class="min-w-fit"
+    href="{{ app:copyright_image_link }}"
+  >
     <img 
       src="{{ app:copyright_image }}" 
       alt="copyright" 
-      class="m-0 mr-2"
+      class="m-0"
     >
   </a>
   <span>{{ app:copyright_text }}</span>
