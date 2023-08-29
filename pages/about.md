@@ -2,43 +2,40 @@
 # See project.yml for variables.
 ---
 # About
-_{tag line- e.g. "Building community around and gathering knowledge about the world’s stoneflies"}_
+_Building community around and gathering knowledge about the world’s seed bugs, milkweed bugs, and ground bugs_
 
 ## Overview
 The _{{ app:project_name }}_ file offers a community-curated collection of richly-cited and annotated information on the taxonomy of Earth’s {{app:focal_taxon_common_name}}. Data found here come from a collaboratively compiled database originating in an instance of [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup.org). See [Contribute](#contribute-or-get-help) for how you can participate. This site is built using TaxonPages, [learn more and get help](https://github.com/SpeciesFileGroup/taxonpages). For more on how this site is built please see the [Software](#software) section.
 
 ## Gaps as opportunity
-The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. Known gaps in this project include {an incomplete catalog of type-material (important specimens that are linked to the names given to species}, {species names published after XXXX}, {biological associations}, {distributions from X} and more. [Contact us](#contribute-or-get-help) if you would like to help us address these, in particular we'd like to prioritize { choose from list above }.
+The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. Known gaps in this project include {an incomplete catalog of type-material (important specimens that are linked to the names given to species}, {species names published after XXXX}, {biological associations}, {distributions from X} and more. [Contact us](#contribute-or-get-help) if you would like to help us address these, in particular we'd like to prioritize {choose from list above}.
 
 ## History
-_Our old website is now a read-only resource available at [https://{{app:focal_taxon}}.archive.speciesfile.org](https://{{app:focal_taxon}}.archive.speciesfile.org)._
+_Our old website is now a read-only resource available at [http://{{app:focal_taxon}}.archive.speciesfile.org](http://{{app:focal_taxon}}.archive.speciesfile.org)._
 
 {How did this specific SF group come to be? When did we start our efforts? What are the historically important catalogs behind these data. Potentially linked to a shared history at sfg.org if we get that done.}
+
+The Lygaeoidea Species File data are based on the world catalogues of Slater (1964) and Slater & O´Donnell (1995) and the Catalog of the Berytidae of the World of Henry & Froeschner (1998):
+- Slater, J. A. 1964. A Catalogue of the Lygaeidae of the World. Vol. I & II. University of Connecticut, Storrs.
+- Slater, J. A. & J. E. O’Donnell. 1995. A Catalogue of the Lygaeidae of the World (1960-1994). New York Entomological Society, New York.
+- Henry, T. J. & R. C. Froeschner. 1998. Catalog of the Stilt bugs, or Berytidae, of the World (Insecta: Hemiptera: Heteroptera). Contributions of the American Entomological Institute 30(4): 1-72.
+
+The first two catalogues were digitalized through a [GBIF](https://www.gbif.org/) award received by [Randall Schuh](https://orcid.org/0000-0002-0713-1367) (AMNH) in 2003. 
 
 As of August 2023 all data in the former Species File Websites were frozen and shortly thereafter migrated to TaxonWorks. As with all migrations of this nature the process is both lossy (e.g. some data could not be mapped with certainty) and improved (e.g. semantics of the new models have more precision and clarity). The old website remains an excellent resource for fact-checking this migration. If you spot something that needs attention, please see [Contribute or get help](#contribute-or-get-help).
 
 ### Support and funding
 _This Species File functionality and content is serviced in part by the Species File Group._
 
-Through the generous support of ... we ...
-Or Funding needed to publish our latest information ... or address data gaps
-
-- {Society Logo } - Society
-- Science Foundation {requires disclaimer}
-- An organization other entity
-
 ## Contributors
 
-|name|role|
-|----|----|
-| First name Last Name | Author |
-| First name Last Name\* | Author |
-| First name Last Name | Editor |
-| First name Last Name | TaxonWorks Project Manager |
-| First name Last Name | Developer |
-| First name Last Name | Community contributor |
+|name|role|affiliation|identifier|
+|:----|:----|:----|:----|
+| Pablo M. Dellapé| Author | División Entomología, Museo de La Plata, Argentina | [ORCiD](https://orcid.org/0000-0002-6914-1026)
+| Thomas J. Henry | Author | Systematic Entomology Laboratory, ARS, USDA c/o National Museum of Natural History, Smithsonian Institution, Washington, DC |
+| David C. Eades* | (Historical) Principal Database Developer | Illinois Natural History Survey |
 
-_A \* denotes a past contributor, now inactive._
+_An \* after someone's name denotes a past contributor, now inactive._
 
 ## Contribute or get help
 _Projects of this nature require expertise in many different areas, not only on the taxa being treated. If you can imagine a way to contribute we'd love to hear about it._
@@ -66,18 +63,19 @@ About our group structure, how the rules behind joining and participating are se
 ## Related resources
 
 ### References
-
-* { Some typical reference cited format } 
+- Slater, J. A. 1964. A Catalogue of the Lygaeidae of the World. Vol. I & II. University of Connecticut, Storrs.
+- Slater, J. A. & J. E. O’Donnell. 1995. A Catalogue of the Lygaeidae of the World (1960-1994). New York Entomological Society, New York.
+- Henry, T. J. & R. C. Froeschner. 1998. Catalog of the Stilt bugs, or Berytidae, of the World (Insecta: Hemiptera: Heteroptera). Contributions of the American Entomological Institute 30(4): 1-72.
 
 ### Websites
 
 |Name|URL|Note|
-|----|---|----|
-| Site name | [site name]{site url} | Note |
-| Site name | [site name]{site url} | Note |
+|:----|:----|:----|
+| Internet Archive has Slater 1964 Vol. II | Search [Internet Archive](https://archive.org/) | Other references cited in [History](#history} above may be there as well |
 
 ## Terms of use
-_Copyright guidance._
+_Copyright guidance_
+Except where noted, content on this site licensed under the terms of the [Creative Commons Attribution License (CC-BY)](LINK). Images and other media, except where noted, please use under the [CC BY](LINK) license.
 
 <div class="flex items-center">
   <a href="{{ app:copyright_image_link }}">
