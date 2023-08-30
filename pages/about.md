@@ -71,7 +71,7 @@ About our group structure, how the rules behind joining and participating are se
 
 |Name|URL|Note|
 |:----|:----|:----|
-| Internet Archive has Slater 1964 Vol. II | Search [Internet Archive](https://archive.org/) | Other references cited in [History](#history} above may be there as well |
+| Internet Archive has Slater 1964 Vol. II | Search [Internet Archive](https://archive.org/) | Other references cited in [History](#history) above may be there as well |
 
 ## Terms of use (Copyright guidance)
 
