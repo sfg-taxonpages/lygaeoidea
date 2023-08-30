@@ -3,11 +3,20 @@
 ---
 
 # {{ app:project_name }}
-The Lygaeoidea Species File database contains taxonomic and other information about all the seed bugs of the world, both living and fossil. We seek to expand our community and knowledgebase by engaging others in this effort to enhance current resources and increase knowledge about the seed bugs planet-wide.
+The Lygaeoidea Species File (LSF) is a taxonomic database of the world’s seed bugs, stilt bugs, chinch bugs, big-eyed bugs and relatives, both living and fossil. It has full taxonomic and synonymic information for all taxa, with complete taxonomic references, and images, specimen records and other useful resources are constantly being added.
+
+The core purpose of the LSF is to provide a resource that makes research on the group more efficient as well as to cover the needs of policy-makers, environmental managers and the wider public for a consistent and up-to-date classification of the world’s Lygaeoidea species.
 
 <autocomplete-otu class="w-80 place-content-center" placeholder="Search by taxon name"/>
 
-_Try searching for Lygaeidae, Aborsillus, Aborsillus pora, or start at [Lygaeoidea]({{app:project_url}}/otu/1207953/overview), [Artheneidae]({{app:project_url}}/otu/1209538/overview), or [Artheneis]({{app:project_url}}/otu/1209559/overview)._
+## Authors
+Pablo M. Dellapé	Author	División Entomología, Museo de La Plata, Argentina	ORCiD
+
+Thomas J. Henry	Author	Systematic Entomology Laboratory, ARS, USDA c/o National Museum of Natural History, Smithsonian Institution, Washington, DC	
+
+David C. Eades*	(Historical) Principal Database Developer	Illinois Natural History Survey	
+
+An * after someone’s name denotes a past contributor, now inactive.
 
 ## Discover more
 Our [About](about) page contains an [overview](about#overview) and [history](about#history) of the project, its data and [gaps](about#gaps-as-opportunity),<D-r> and information about the [team](about#team) and how _you_ can [contribute](about#contribute-or-get-help). You can also [contact us](about#contribute-or-get-help) or [get help](about#contribute-or-get-help). 
