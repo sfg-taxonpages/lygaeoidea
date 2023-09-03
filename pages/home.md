@@ -19,7 +19,8 @@ David C. Eades*	(Historical) Principal Database Developer	Illinois Natural Histo
 An * after someone’s name denotes a past contributor, now inactive.
 
 ## Discover more
-Our [About](about) page contains an [overview](about#overview) and [history](about#history) of the project, its data and [gaps](about#gaps-as-opportunity),<D-r> and information about the [team](about#team) and how _you_ can [contribute](about#contribute-or-get-help). You can also [contact us](about#contribute-or-get-help) or [get help](about#contribute-or-get-help). 
+Find out more on this new public version of LSF. Learn how to collaborate with the project. Contact information, technical details, and more are available at  [About](about) 
+
 
 ## Announcements
 ### Welcome to Our New Lygaeoidea Species File Website
