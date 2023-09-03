@@ -10,7 +10,7 @@ The core purpose of the LSF is to provide a resource that makes research on the 
 <autocomplete-otu class="w-80 place-content-center" placeholder="Search by taxon name"/>
 
 ## Authors
-Pablo M. Dellapé	Author	División Entomología, Museo de La Plata, Argentina	
+[Pablo M. Dellapé](https://orcid.org/0000-0002-6914-1026)	Author	División Entomología, Museo de La Plata, Argentina	
 
 Thomas J. Henry	Author	Systematic Entomology Laboratory, ARS, USDA c/o National Museum of Natural History, Smithsonian Institution, Washington, DC	
 
