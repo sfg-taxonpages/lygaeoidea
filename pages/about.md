@@ -4,7 +4,7 @@
 # About
 
 ## Overview
-The _{{ app:project_name }}_ file offers a community-curated collection of richly-cited and annotated information on the taxonomy of Earth’s {{app:focal_taxon_common_name}}. Data found here come from a collaboratively compiled database originating in an instance of [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup.org). See [Contribute](#contribute-or-get-help) for how you can participate. This site is built using TaxonPages, [learn more and get help](https://github.com/SpeciesFileGroup/taxonpages). For more on how this site is built please see the [Software](#software) section.
+Data found here come from a collaboratively compiled database originating in an instance of [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup.org). See [Contribute](#contribute-or-get-help) for how you can participate. This site is built using TaxonPages, [learn more and get help](https://github.com/SpeciesFileGroup/taxonpages). For more on how this site is built please see the [Software](#software) section.
 
 ## History
 _Our old website is now a read-only resource available at [http://{{app:focal_taxon}}.archive.speciesfile.org](http://{{app:focal_taxon}}.archive.speciesfile.org)._
@@ -21,10 +21,10 @@ Since 2018, the database is online, with more the 780 papers added at date (2023
 As of August 2023 all data in the former Species File Websites were frozen and shortly thereafter migrated to TaxonWorks. As with all migrations of this nature the process is both lossy (e.g. some data could not be mapped with certainty) and improved (e.g. semantics of the new models have more precision and clarity). The old website remains an excellent resource for fact-checking this migration. If you spot something that needs attention, please see [Contribute or get help](#contribute-or-get-help).
 
 ### Governance
-* Editorial board/Authors
+Editorial board/Authors
 Their main task is adding published taxa, citations, and data to LSF, correcting errors. The Editorial board is based at the Museo de La Plata, Universidad Nacional de La Plata, Argentina and in the National Museum of Natural History, Smithsonian Institution, Washington, DC.
 
-## Editorial policy
+### Editorial policy
 The classification and nomenclature used for the database should reflect the most recent published information. If a change in classification reflects a subjective judgment, and the matter is of sufficient interest that conflicting opinions are likely to be published; then the editor may delay entering the change until a predominant opinion emerges from multiple authors. However, each conflicting citation should be entered with a note giving the opinion of that author.
 
 ### Community participation
@@ -49,10 +49,10 @@ _A goal of these pages is to ensure that the underlying data behind them are acc
 - Panel data (each section on a page) and other information not available on these pages are accessible via a [TaxonWorks API](https://api.taxonworks.org) at [https://sfg.taxonworks.org/api/v1](https://sfg.taxonworks.org/api/v1).
 - Core taxonomic data are exported to and available at the [Catalogue of Life]({https://link_to_root_taxon_page}) and its [associated API]({https://link_to_api_for_pertinent_dataset}).
   
-- ### Support and funding
+### Support and funding
 _This Species File functionality and content is serviced in part by the Species File Group._
 
-## Terms of use (Copyright guidance)
+### Terms of use (Copyright guidance)
 
 <div class="flex items-center gap-2">
   <a
