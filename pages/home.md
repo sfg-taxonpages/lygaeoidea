@@ -10,11 +10,11 @@ The core purpose of the LSF is to provide a resource that makes research on the 
 <autocomplete-otu class="w-80 place-content-center" placeholder="Search by taxon name"/>
 
 ## Authors
-[Pablo M. Dellapé](https://orcid.org/0000-0002-6914-1026)	Author	División Entomología, Museo de La Plata, Argentina	
+Pablo M. Dellapé,	División Entomología, Museo de La Plata, Argentina	[ORCID](https://orcid.org/0000-0002-6914-1026)
 
-Thomas J. Henry	Author	Systematic Entomology Laboratory, ARS, USDA c/o National Museum of Natural History, Smithsonian Institution, Washington, DC	
+Thomas J. Henry,	Systematic Entomology Laboratory, ARS, USDA c/o National Museum of Natural History, Smithsonian Institution, Washington, DC	
 
-David C. Eades*	(Historical) Principal Database Developer	Illinois Natural History Survey	
+David C. Eades*,	(Historical) Principal Database Developer	Illinois Natural History Survey	
 
 An * after someone’s name denotes a past contributor, now inactive.
 
@@ -23,8 +23,4 @@ Find out more on this new public version of LSF. Learn how to collaborate with t
 
 
 ## Announcements
-### Welcome to Our New Lygaeoidea Species File Website
-<!--- add inline --->
-_Dellapé PM, Henry TJ, August 2023_
-
-Please enjoy these new ways to access our Lygaeoidea data. We look forward to your insights, participation, use of our data, and your contributions.
+August 2023 - Welcome to Our New Lygaeoidea Species File Website. Please enjoy these new ways to access our Lygaeoidea data. We look forward to your insights, participation, use of our data, and your contributions.
