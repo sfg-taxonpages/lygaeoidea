@@ -12,7 +12,7 @@ The core purpose of the LSF is to provide a resource that makes research on the 
 ## Authors
 Pablo M. Dellapé,	División Entomología, Museo de La Plata, Argentina	[ORCID](https://orcid.org/0000-0002-6914-1026)
 
-Thomas J. Henry,	Systematic Entomology Laboratory, ARS, USDA c/o National Museum of Natural History, Smithsonian Institution, Washington, DC	
+Thomas J. Henry,	Systematic Entomology Laboratory, ARS, USDA c/o National Museum of Natural History, Smithsonian Institution, Washington, DC	[ORCID](https://orcid.org/0000-0002-0653-7728)
 
 David C. Eades*,	(Historical) Principal Database Developer	Illinois Natural History Survey	
 
