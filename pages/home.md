@@ -17,9 +17,11 @@ layout: blank
       </div>
     </div>
   </ImageCarrousel>
-  <div class="container mx-auto pb-10">
+  <div class="container mx-auto">
     <SectionData/>
-
+    </div>
+<hr class="border-base-muted mt-0">
+<div class="container mx-auto pb-10">
 The {{ app:project_name }} (LSF) is a taxonomic database of the world’s seed bugs, stilt bugs, chinch bugs, big-eyed bugs and relatives, both living and fossil. It has full taxonomic and synonymic information for all taxa, with complete taxonomic references, and images, specimen records and other useful resources are constantly being added.
 
 The core purpose of the LSF is to provide a resource that makes research on the group more efficient as well as to cover the needs of policy-makers, environmental managers and the wider public for a consistent and up-to-date classification of the world’s Lygaeoidea species.

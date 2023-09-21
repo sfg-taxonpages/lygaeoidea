@@ -58,73 +58,73 @@ const images = [
     label: 'Beosus quadripunctatus',
     copyright: 'Dimitǎr Boevski',
     src: beosusQuadripunctatus,
-    otuId: 850435
+    otuId: 921125
   },
   {
     label: 'Horridipamera robusta',
     copyright: 'Tom',
     src: horridipameraRobusta,
-    otuId: 848543
+    otuId: 922353
   },
   {
     label: 'Oxycarenus lavaterae',
     copyright: 'Juraj Ahel',
     src: oxycarenusLavaterae,
-    otuId: 831633
+    otuId: 917827
   },
   {
     label: 'Oxycarenus lavaterae',
     copyright: 'Jens Oldenburg',
     src: oxycarenusLavateraeJens,
-    otuId: 816243
+    otuId: 917827
   },
   {
     label: 'Raglius confusus',
-    copyright: 'Raglius confusus',
+    copyright: 'carnifex',
     src: ragliusConfusus,
-    otuId: 850176
+    otuId: 921359
   },
   {
     label: 'Lygaeus turcicus',
-    copyright: 'Lygaeus turcicus',
+    copyright: 'averagewalrus',
     src: lygaeusTurcicus,
-    otuId: 850075
+    otuId: 918387
   },
   {
-    label: 'Oedancala Dorsalis',
+    label: 'Oedancala dorsalis',
     src: oedancalaDorsalis,
     copyright: 'Steven Lamonde',
-    otuId: 823304
+    otuId: 919636
   },
   {
     label: 'Jalysus',
     src: jalysus,
     copyright: 'Adrienne van den Beemt',
-    otuId: 816353
+    otuId: 923432
   },
   {
     label: 'Oncopeltus fasciatus',
     src: oncopeltusFasciatus,
     copyright: 'Jay Brasher',
-    otuId: 823314
+    otuId: 919296
   },
   {
     label: 'Rhyparochromus pini',
     copyright: 'Paweł Ryszawa',
     src: rhyparochromusPini,
-    otuId: 820284
+    otuId: 921112
   },
   {
     label: 'Oedancala crassimana',
     copyright: 'Joshua Soileau',
     src: oedancalaCrassimana,
-    otuId: 823378
+    otuId: 919628
   },
   {
     label: 'Oncopeltus sp (c)',
     copyright: 'DiegoH',
     src: oncopeltus,
-    otuId: 823378
+    otuId: 919234
   }
 ]
 
