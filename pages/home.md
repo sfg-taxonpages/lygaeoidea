@@ -7,7 +7,7 @@ layout: blank
   <ImageCarrousel>
     <div class="flex flex-col justify-center items-center w-full h-full bg-black bg-opacity-25 gap-4">
       <span class="text-4xl font-medium text-white">{{ app:project_name }}</span>
-      <span class="text-xl text-white">The Lygaeoidea Species File (LSF) is a taxonomic database of the world’s seed bugs, stilt bugs, chinch bugs, big-eyed bugs and relatives</span>
+      <span class="text-xl text-white">Taxonomic database of the world’s seed bugs, stilt bugs, chinch bugs, big-eyed bugs and relatives</span>
       <div class="p-4 bg-black bg-opacity-25 w-full max-w-lg box-border">
         <AutocompleteOtu
           autofocus
