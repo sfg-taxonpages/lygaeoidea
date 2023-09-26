@@ -3,7 +3,7 @@
   project_citation: 'Lygaeoidea Species File'
   project_authors: 'Dellapé, Pablo M. & Thomas J. Henry.'
   project_url: 'https://lygaeoidea.speciesfile.org'
-  project_old_url: 'https://lygaeoidea.archive.speciesfile.org'
+  project_old_url: 'http://lygaeoidea.archive.speciesfile.org'
   focal_taxon: 'lygaeoidea'
   focal_taxon_common_name: 'seed bugs, milkweed bugs, or ground bugs'
   contact_email: 'pdellape@gmail.com'
