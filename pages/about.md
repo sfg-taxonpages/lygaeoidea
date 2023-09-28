@@ -13,7 +13,7 @@ The Lygaeoidea Species File data are based on the world catalogues of Slater (19
 
 The first two catalogues were digitalized through a [GBIF](https://www.gbif.org/) award received by Randall Schuh (AMNH) in 2003. 
 
-Since 2018, the database is online, with more the 780 papers added at date (2023), mainly from the last 30 years, and it is being constantly updated.
+Since 2018, when the database first went online, with more the 780 papers added at date (2023), mainly from the last 30 years, with more continually being added.
 
 As of August 2023 all data in the former Species File Websites were frozen and shortly thereafter migrated to TaxonWorks. As with all migrations of this nature the process is both lossy (e.g. some data could not be mapped with certainty) and improved (e.g. semantics of the new models have more precision and clarity). The old website remains an excellent resource for fact-checking this migration. If you spot something that needs attention, please see community participation below.
 
