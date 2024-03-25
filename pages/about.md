@@ -27,12 +27,12 @@ The classification and nomenclature used for the database should reflect the mos
 ### Community participation
 Members of the Heteropterist’ community doing serious work with Lygaeoidea are invited to participate in making this website and database better. In most cases this will mean correcting or adding information fitting the individual’s specific research interest. Participation can be at various levels.
 
+- <TrackerReport label="Report a problem or offer data" tag="a"/> (bugs or data issues) on our issue tracker.
+  - **Provide new data or identify a problem with existing data** by contacting us (see above).
 - **<a href="mailto:{{app:contact_email}}">Email</a>** is the primary way to contact us, including enquiries about **joining** the researchers building this Species File.
-- **Submit images for inclusion in the database.** The source will be acknowledged when users view images.
-- **Provide new data or identify a problem with existing data** by contacting us (see above).
+  - **Submit images for inclusion in the database.** The source will be acknowledged when users view images.
 - **Develop new information such as interactive keys.** There are many useful ways the project could be expanded. This final level of participation requires some knowledge of computer programming and a serious time commitment. 
 - **Cite** this website via the citation at the bottom of the page. See also [Terms of use](#terms-of-use).
-- **Something is broken** (i.e. with TaxonPages the software)? See [Software](#software), or use the [TaxonPages Issue Tracker](https://github.com/SpeciesFileGroup/taxonpages/issues).
 
 ### Extended data access
 These pages are built with completely open-source software. [Read more](http://speciesfilegroup.org/docs/taxonworks_in_production_at_sfg.html) about what drives them, how they supported by the Species File Group and their many collaborators, or [join weekly support meetings](https://speciesfilegroup.org/events.html) and see how it all fits together, includes links to issue trackers.
