@@ -8,5 +8,8 @@ header_links:
   - label: Bibliography
     link: /resources/tw/filter/bibliography
 
+  - label: Recent
+    link: /recent
+
   - label: About
     link: /about
