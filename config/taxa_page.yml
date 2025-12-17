@@ -10,6 +10,7 @@ taxa_page:
         - - panel:map
           - panel:descendants
           - panel:content
+          - panel:gbif
           - panel:statistics
   specimen_records:
     rank_group: ['SpeciesGroup']
