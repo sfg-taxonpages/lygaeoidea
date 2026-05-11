@@ -6,14 +6,14 @@
       :src="currentImage.src"
       alt="Dichroplus maculipennis"
     />
-    <div class="bg-black bg-opacity-25 absolute h-full w-full top-0">
+    <div class="bg-black/25 absolute h-full w-full top-0">
       <slot />
     </div>
     <div class="absolute bottom-2 right-4">
       <span class="z-10 text-white text-sm drop-shadow">
         <RouterLink
           v-if="currentImage.otuId"
-          class="text-white decoration-transparent"
+          class="text-white! decoration-transparent"
           :to="{ name: 'otus-id', params: { id: currentImage.otuId } }"
         >
           <i>{{ currentImage.label }}</i> © {{ currentImage.copyright }}
