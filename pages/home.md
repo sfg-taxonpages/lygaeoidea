@@ -5,7 +5,7 @@ layout: blank
 
 <div class="bg-base-foreground">
   <ImageCarrousel>
-    <div class="flex flex-col justify-center sm:items-center w-full h-full bg-black bg-opacity-25 gap-4">
+    <div class="flex flex-col justify-center sm:items-center w-full h-full bg-black/25 gap-4">
       <span class="text-3xl sm:text-4xl px-4 font-medium text-white">{{ app:project_name }}</span>
       <span class="text-lg sm:text-xl px-4 text-white">Taxonomic database of the world’s seed bugs, stilt bugs, chinch bugs, big-eyed bugs and relatives</span>
       <div class="p-4 bg-black/25 w-full max-w-lg box-border">
